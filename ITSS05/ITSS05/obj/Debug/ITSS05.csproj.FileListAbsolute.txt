@@ -1,0 +1,12 @@
+C:\Users\FIT\Desktop\ITSS05\ITSS05\bin\Debug\ITSS05.exe.config
+C:\Users\FIT\Desktop\ITSS05\ITSS05\bin\Debug\ITSS05.exe
+C:\Users\FIT\Desktop\ITSS05\ITSS05\bin\Debug\ITSS05.pdb
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.AssemblyReference.cache
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.Form1.resources
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.InventoryContrl.resources
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.Properties.Resources.resources
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.GenerateResource.cache
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.CoreCompileInputs.cache
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.exe
+C:\Users\FIT\Desktop\ITSS05\ITSS05\obj\Debug\ITSS05.pdb
